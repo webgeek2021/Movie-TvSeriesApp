@@ -6,7 +6,7 @@ import styles from 'react-responsive-carousel/lib/styles/carousel.min.css'
 import axios from "axios";
 import ContentHolder from '../../Components/contentHolder'
 import data from './datasheet'
-// 8df66a7cb7fc5970969d0ec84150c7d4
+
 function Home() {
     const [home, setHome] = React.useState([]);
 
